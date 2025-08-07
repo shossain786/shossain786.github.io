@@ -161,7 +161,7 @@ plt.show()
 ## ✅ Summary
 
 - Preprocessed the data, handled missing values smartly
-- Dropped `Insulin` due to excessive missingness
+- Replaced missing data with median
 - Scaled features and split dataset
 - Tuned KNN model to find best `k`
 - Achieved ~76% accuracy on test set
