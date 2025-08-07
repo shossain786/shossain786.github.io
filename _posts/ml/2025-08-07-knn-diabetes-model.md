@@ -156,7 +156,6 @@ plt.grid()
 plt.show()
 ```
 
-![alt text](image.png)
 ---
 
 ## ✅ Summary
